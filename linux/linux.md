@@ -7,7 +7,3 @@ sudo apt-get install cifs-utils
 
 sudo mount -t cifs -o username=계정,password=비밀번호 -o uid=소유자id,gid=소유그룹id //아이피/원격_디렉토리 /로컬_디렉토리
 ```  
-
-
-### Tips for Linux
-- [Linux](linux/linux.md)
